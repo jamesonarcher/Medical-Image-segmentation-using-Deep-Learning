@@ -1,1 +1,6 @@
-# Medical-Image-segmentation-using-Deep-Learning
+
+
+Datasets used: 
+Kaggle CVC-ClinicDB dataset
+KVasir Dataset
+ETIS-Larib Polyp DB
